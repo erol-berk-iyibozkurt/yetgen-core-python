@@ -1,0 +1,8 @@
+2. Hafta işleyeceğimiz Konular
+    print fonksiyonu nedir, ne işe yarar ve parametreleri nelerdir?
+    Yorum satırları
+    Değişkenler ve tanımlama kuralları
+    Type fonksiyonu
+    sayı veri türleri ve matematiksel işlemler
+    string, boolean veri türleri
+    input fonksiyonu
