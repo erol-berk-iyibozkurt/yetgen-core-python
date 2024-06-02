@@ -1,0 +1,6 @@
+Content of the week 3
+
+comparision operators / Karşılaştırma operatörleri 
+logical operators / Mantıksal operatörler
+decision structures / Karar yapıları
+Loops / Döngüler
