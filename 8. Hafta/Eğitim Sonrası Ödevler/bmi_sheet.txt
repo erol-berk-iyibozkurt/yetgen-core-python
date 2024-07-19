@@ -1,0 +1,14 @@
+Ali Küçük
+Age: 26
+Height: 1.8
+Weight: 79.0
+BMI: 24.382716049382715
+Category: Normal weight
+--------------------
+Tugay Panter
+Age: 28
+Height: 1.78
+Weight: 75.0
+BMI: 23.671253629592222
+Category: Normal weight
+--------------------
