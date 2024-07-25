@@ -1,0 +1,9 @@
+TRT1 1
+TRT_Muzik 2
+BloombergHT 3
+TV8 4
+NOW 5
+StarTV 6
+ATV 7
+Show 8
+KanalD 9
